@@ -32,6 +32,7 @@ int hrugufjoldi;
 int main( )
 {
 	cout << "Erla" << endl;
+	cout << "Birgitta" << endl;
 	int val;
 	do
 	{
