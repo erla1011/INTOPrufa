@@ -33,6 +33,8 @@ int main( )
 {
 	cout << "Erla" << endl;
 	cout << "Birgitta" << endl;
+	cout << "Birgitta aftur" << endl;
+
 	int val;
 	do
 	{
