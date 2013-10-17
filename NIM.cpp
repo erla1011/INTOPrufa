@@ -55,7 +55,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
-
+	cout << "Sara" << endl;
 	return 0;
 }
 
